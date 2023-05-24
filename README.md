@@ -1,5 +1,7 @@
 # Sachin Mihiranga
 
+[![An image of @sachinmihiranga's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachinmihiranga)](https://holopin.io/@sachinmihiranga)
+ 
 ## Personal Details
 
 * **Name** : Sachin Mihiranga
@@ -16,3 +18,8 @@ I am a undergratuade of University of Kelaniya.I follow computer science degree 
 ### School
 * **University** : University of Kelaniya
 * **Degree** : Computer  science
+
+image
+
+![my profile](https://avatars.githubusercontent.com/u/117339596?s=96&v=4)
+
