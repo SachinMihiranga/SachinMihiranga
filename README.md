@@ -61,11 +61,8 @@
 <hr>
  :fire: My Stats :
  </br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinMihiranga&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinMihiranga&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr>
-:writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 
