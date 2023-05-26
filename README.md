@@ -28,7 +28,7 @@
 
 :seedling: I have a passion for software development and am currently honing my skills as a Full Stack Developer.
 
- :zap: During my free time, I actively engage in problem-solving on platforms like GeeksforGeeks and also keep myself updated by reading tech      articles."
+ :zap: In my free time, I actively participate in problem-solving on websites like GeeksforGeeks and read tech articles to stay current.
 
  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-mihiranga-644608255/)
  <hr>
