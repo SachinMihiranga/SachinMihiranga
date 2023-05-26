@@ -16,8 +16,9 @@
   <div id="view counter" align="center" > 
     <img src="https://komarev.com/ghpvc/?username=SachinMihiranga&style=flat-square&color=blue" alt=""/>
     <h1>
-    hey there
+     Hi,
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+     I'm Sachin Mihiranga
   </h1>
  </div>
 
@@ -61,7 +62,9 @@
 <hr>
  :fire: My Stats :
  </br>
-`[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)`
+ </br>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SachinMihiranga&theme=vision-friendly-dark" alt="SachinMihiranga" />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SachinMihiranga&theme=vision-friendly-dark&show_icons=true&locale=en&layout=compact" alt="SachinMihiranga" /></p>
 
 
 
